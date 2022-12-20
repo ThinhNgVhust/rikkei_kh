@@ -53,11 +53,14 @@ thế mạnh bản thân:
     - Tech: C#, WPF... 
     - User: B2B
 
-1&2 làm khi ở VN
+- Note: 1&2 làm khi ở VN
 3. Dự án 3: Tự phát triển 1 trang web như Twitter. Phục vụ mục đích học tập.
-    - Role: 
-
-
+    - Role:
+    - Task: DB, DD, Test
+    - Tech: 
+        - BE: Python, Django
+        - FE: HTML, CSS + Boostrap + JavaScript
+4. 
 
 
 ## What makes us valuable?
