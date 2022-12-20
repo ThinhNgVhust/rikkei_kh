@@ -34,10 +34,10 @@ thế mạnh bản thân:
 > 
 # Ngoài ra
 
-- có câu hỏi gì ngược lại ko
-> cv co sử dụng tiếng Anh hay không?仕事には英語で話せるチャンスがありますか？
-> dự án tới đây size như thế nào 次のプロジェクトについてサイズはどうですか？(Manager, Developer, など)
-> OT 
+- có câu hỏi gì ngược lại ko    
+> cv co sử dụng tiếng Anh hay không?仕事には英語で話せるチャンスがありますか？     
+> dự án tới đây size như thế nào 次のプロジェクトについてサイズはどうですか？(Manager, Developer, など)      
+> OT nhiều hay ít?        
 
 # Xem lại skillsheet của mình 1 lượt, ngẫm nghĩ trước câu trả lời khi được confirm các nội dung bên trong skillsheet 
 
