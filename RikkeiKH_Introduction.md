@@ -23,9 +23,9 @@ thế mạnh bản thân:
 > 100% tài liệu bằng tiếng Nhật, nên t không vấn đề về đọc tiếng Nhật. Ngoài ra t cũng viết một vài tài liệu bằng tiếng nhật nên việc viết đối với t không vấn đề gì lắm. メールや仕様書を読むことと書くことができます。
 - Trong cv của bạn kn về Java có vẻ ít, vì sao chọn java?
 
-> 1.Javaには、豊富なライブラリーがあり、それらを使って作成したアプリケーションやWebサイトが数多く存在します。特に基幹業務用の大規模なアプリケーションでのショアは非常に高いものがあります。
-> 2.言語としての安定性が高く、開発ツールも豊富で機能も充実（**じゅうじつ** đầy đủ, trọn vẹn）しているので、多人数で開発する場合には最適なプログラム言語で大きなシステムで使われています。
-> 3. syntaxとしてはOOP向けで簡単だし、platform-independentです。
+> 1.Javaには、豊富なライブラリーがあり、それらを使って作成したアプリケーションやWebサイトが数多く存在します。特に基幹業務用の大規模なアプリケーションでのショアは非常に高いものがあります。　　　　　　
+> 2.言語としての安定性が高く、開発ツールも豊富で機能も充実（**じゅうじつ** đầy đủ, trọn vẹn）しているので、多人数で開発する場合には最適なプログラム言語で大きなシステムで使われています。　　　　　　　　　　　
+> 3. syntaxとしてはOOP向けで簡単だし、platform-independentです。　　　　　　　　　　　　
 
 - Tại sao bạn lại muốn chuyển từ AI sang làm product?
 > sofuto no 製品の中に多くのコンポーネントがあります。
@@ -44,7 +44,7 @@ thế mạnh bản thân:
 
 1. Dự án 1: Dekisugi (C#, MySQL, ) Web developement
     - Role: Freshman 
-    - Task: Fig issue,làm theo tài liệu thiết kế BD -> coding va tao tantai test. co nguoi khac ketsugo test lai.
+    - Task: Fig issue,他人の基本設計から要件通り ->コーディング　と　単体テスト. あと、他の人が結合テストする.
     - Tech: C# .NET, Javascript no JQuery, MySQL 
     - User: B2C
 
