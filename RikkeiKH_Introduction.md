@@ -82,4 +82,4 @@
 ## What makes us valuable?
 - Onsite: Chiến từ A - Z. 
 - Kikan system: hanbai kanri, quản lý hệ thống kho. 
-- 
+- We can learn anything: https://www.youtube.com/watch?v=JC82Il2cjqA
