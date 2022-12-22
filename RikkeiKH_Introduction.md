@@ -12,7 +12,7 @@
 - Career path:
     - >Điều quan tâm gần đây: ウェブサイト開発の経験があるし、機械学習と画像処理の経験もあるが、最近、e-comerce(eコマース 電子商 取引 )やtrading stock(株システム) やbanking や基幹システムなど大規模な(**だいきぼ qui mo lon**)アプリケーションに興味を持っており、システム開発のキャリアに挑戦したい気持ちが強くなっています。
     - >Mục tiêu bản thân 目標：今,バックエンドが得意で集中しますが。あと一年後フロントエンドを含めて、フルスタック（full-stack）が上手になって、
-また三年後　DevOps Engineer (デブオプス　エンジニア)、五年後　テックリードを　目指す　(**めざす　to aim**)
+また三年後　DevOps Engineer (デブオプス　エンジニア)、五年後　テックリードを　目指shiteimasu　(**めざす　to aim**)
 
 # Nghĩ trước 1 số câu hỏi kiểu như
 - ở Nhật bao lâu
@@ -83,3 +83,14 @@
 - Onsite: Chiến từ A - Z. 
 - Kikan system: hanbai kanri, quản lý hệ thống kho. 
 - We can learn anything: https://www.youtube.com/watch?v=JC82Il2cjqA
+
+
+## Chị Linh 
+- jikoushoukai -> motto mijikaku
+- hyougen nikoniko
+- Toi co the lam tu kihon sekkei -> testo
+- cu the phan minh phu trach
+- erasou
+
+
+- 3 man, 
