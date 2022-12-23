@@ -5,9 +5,10 @@
 
 
 - làm đc phase gì/ngôn ngữ gì/role gì dự án  
-> 自分のできるプログラミング言語：Java,Python,C#,C++ です。
+    - > 自分のできるプログラミング言語：Java,Python,C#,C++ です。
+    - > 基本設計、詳細設計、単体テストと結合テストができます。
 - thế mạnh bản thân:
-> 長所：私は新しい技術のキャッチアップが早く、グロース・マインドセットを持っていると思います。会社の目標を達成するのに役立つあらゆるスキルとスキルを喜んで学びます。データ構成とアルゴリズム　や　オブジェクト指向プログラミング【OOP】　や　データベースなど基本的なコンピューター サイエンス知識を持っているので、もし、新しいフレームワークやテクノロジーなどあれば、早くキャッチアップできます。
+    - > 長所：私は新しい技術のキャッチアップが早く、グロース・マインドセットを持っていると思います。会社の目標を達成するのに役立つあらゆるスキルとスキルを喜んで学びます。データ構成とアルゴリズム　や　オブジェクト指向プログラミング【OOP】　や　データベースなど基本的なコンピューター サイエンス知識を持っているので、もし、新しいフレームワークやテクノロジーなどあれば、早くキャッチアップできます。
 
 - Career path:
     - >Điều quan tâm gần đây: ウェブサイト開発の経験があるし、機械学習と画像処理の経験もあるが、最近、e-comerce(eコマース 電子商 取引 )やtrading stock(株システム) やbanking や基幹システムなど大規模な(**だいきぼ qui mo lon**)アプリケーションに興味を持っており、システム開発のキャリアに挑戦したい気持ちが強くなっています。特にゼロから作るソフトをやりたいです。　　　　
@@ -75,7 +76,7 @@
     - Task: Nghiên cứu, phát triển, triển khải code chạy trên thiết bị.
     - Tech: 機械学習と画像処理と深層学習、Python, C/C++
     - User: B2C 
-6. iTool:iToolは 社内用の向けdesktop　application ですツールはデータ管理、データ分析と機械学習実行とモデル出力を管理します。学習したモデルが出たら実機に組み込みます　Ứng dụng quản lý data, phân tích data, triển khai học máy và trích xuất file template phục vụ code nhúng.
+6. iTool:iToolは 社内用の向けdesktop　application ですツールはデータ管理、データ分析と機械学習実行とモデル出力を管理します。学習したモデルが出たらモデルを交換して実機に組み込みます　Ứng dụng quản lý data, phân tích data, triển khai học máy và trích xuất file template phục vụ code nhúng.
     - Role:  Dev
     - Task: Maintan, tích hợp.
     - Tech: 機械学習と画像処理と深層学習、C#, MSSQL, Python
