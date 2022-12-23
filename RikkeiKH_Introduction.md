@@ -65,12 +65,12 @@
         - BE: Python, Django
         - FE: HTML, CSS + Boostrap + JavaScript
     - User:
-4. 紙幣の記番号：Nhận dạng số seri ở tờ tiền giấy.
+4. 紙幣の記番号：Nhận dạng số seri ở tờ tiền giấy.　記番号のところを取ってから、画像処理で記番号ごとを抽出して、機械学習でトレーニングします。
     - Role: Reseach, Dev
     - Task: Nghiên cứu, phát triển, triển khải code chạy trên thiết bị.
     - Tech: 機械学習と画像処理と深層学習、Python, C/C++
     - User: B2C 
-5. 落書き: Nhận dạng &  phát hiện vẽ bậy ở tờ tiền
+5. 落書き: Nhận dạng &  phát hiện vẽ bậy ở tờ tiền. 
     - Role: Reseach, Dev
     - Task: Nghiên cứu, phát triển, triển khải code chạy trên thiết bị.
     - Tech: 機械学習と画像処理と深層学習、Python, C/C++
