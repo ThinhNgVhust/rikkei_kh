@@ -5,14 +5,17 @@
 
 
 - làm đc phase gì/ngôn ngữ gì/role gì dự án  
-> 自分のできるプログラミング言語：Java,Python,C#,C++ です。
+    - > 自分のできるプログラミング言語：Java,Python,C#,C++ です。
+    - > 基本設計、詳細設計、単体テストと結合テストができます。
 - thế mạnh bản thân:
-> 長所：私は新しい技術のキャッチアップが早く、グロース・マインドセットを持っていると思います。又はデータ構成とアルゴリズム　や　オブジェクト指向プログラミング【OOP】　や　データベースなど基本的なコンピューター サイエンスを持っているので、新しいフレームワークやテクノロジーなどあれば、早くキャッチアップできます。
+    - > 長所：私は新しい技術のキャッチアップが早く、グロース・マインドセットを持っていると思います。又はデータ構成とアルゴリズム　や　オブジェクト指向プログラミング【OOP】　や　データベースなど基本的なコンピューター サイエンスを持っているので、新しいフレームワークやテクノロジーなどあれば、早くキャッチアップできます。
+
 
 - Career path:
-    - >Điều quan tâm gần đây: ウェブサイト開発の経験があるし、機械学習と画像処理の経験もあるが、最近、e-comerce(eコマース 電子商 取引 )やtrading stock(株システム) やbanking や基幹システムなど大規模な(**だいきぼ qui mo lon**)アプリケーションに興味を持っており、システム開発のキャリアに挑戦したい気持ちが強くなっています。
+    - >Điều quan tâm gần đây: ウェブサイト開発の経験があるし、機械学習と画像処理の経験もあるが、最近、e-comerce(eコマース 電子商 取引 )やtrading stock(株システム) やbanking や基幹システムなど大規模な(**だいきぼ qui mo lon**)アプリケーションに興味を持っており、システム開発のキャリアに挑戦したい気持ちが強くなっています。特にゼロから作るソフトをやりたいです。　　　　
+
     - >Mục tiêu bản thân 目標：今,バックエンドが得意で集中しますが。あと一年後フロントエンドを含めて、フルスタック（full-stack）が上手になって、
-また三年後　DevOps Engineer (デブオプス　エンジニア)、五年後　テックリードを　目指shiteimasu　(**めざす　to aim**)
+また三年後　DevOps Engineer (デブオプス　エンジニア)、五年後　テックリードを　目指shiteimasu　(**めざす　to aim**)　　　　　
 
 # Nghĩ trước 1 số câu hỏi kiểu như
 - ở Nhật bao lâu
@@ -58,25 +61,26 @@
 - Note: 1&2 làm khi ở VN
 3. Dự án 3: Tự phát triển 1 trang web như Twitter. Phục vụ mục đích học tập.
     - Role: 
-    - Task: 基本設計, 詳細設計, コーディング、単体テスト、結合テスト
+    - Task: 基本設計、データベース設計, 詳細設計, コーディング、単体テスト、結合テスト
+    -　
     - Tech: 
         - BE: Python, Django
         - FE: HTML, CSS + Boostrap + JavaScript
     - User:
-4. 紙幣の記番号：Nhận dạng số seri ở tờ tiền giấy.
+4. 紙幣の記番号：Nhận dạng số seri ở tờ tiền giấy.　記番号のところを取ってから、画像処理で記番号ごとを抽出して、機械学習でトレーニングします。
     - Role: Reseach, Dev
     - Task: Nghiên cứu, phát triển, triển khải code chạy trên thiết bị.
     - Tech: 機械学習と画像処理と深層学習、Python, C/C++
     - User: B2C 
-5. 落書き: Nhận dạng &  phát hiện vẽ bậy ở tờ tiền
+5. 落書き: Nhận dạng &  phát hiện vẽ bậy ở tờ tiền. 
     - Role: Reseach, Dev
     - Task: Nghiên cứu, phát triển, triển khải code chạy trên thiết bị.
     - Tech: 機械学習と画像処理と深層学習、Python, C/C++
     - User: B2C 
-6. iTool: Ứng dụng quản lý data, phân tích data, triển khai học máy và trích xuất file template phục vụ code nhúng.
+6. iTool:iToolは 社内用の向けdesktop　application ですツールはデータ管理、データ分析と機械学習実行とモデル出力を管理します。学習したモデルが出たらモデルを交換して実機に組み込みます　Ứng dụng quản lý data, phân tích data, triển khai học máy và trích xuất file template phục vụ code nhúng.
     - Role:  Dev
     - Task: Maintan, tích hợp.
-    - Tech: 機械学習と画像処理と深層学習、C#, MSSQL
+    - Tech: 機械学習と画像処理と深層学習、C#, MSSQL, Python
     - User: 社内の向けのソフト
 
 ## What makes us valuable?
@@ -87,7 +91,7 @@
 
 ## Chị Linh 
 - jikoushoukai -> motto mijikaku
-- hyougen nikoniko
+- hyougen: ニコニコ　tươi cười. 
 - Toi co the lam tu kihon sekkei -> testo
 - cu the phan minh phu trach
 - erasou
